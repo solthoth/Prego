@@ -1,0 +1,20 @@
+{
+  "name": "Prego",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Carlos Cesar Barajas Jr <soldotsol@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
