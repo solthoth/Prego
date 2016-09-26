@@ -1,3 +1,6 @@
 language: node_js
-node_js: 
-    - "6.1"
+node_js:
+- '6.1'
+notifications:
+  slack:
+    secure: OFs5T74suvc4/Wnhn+MGGt0mGBAnu/YkPgus4Xz1HL/kApWlADWh5ybobXv24ybTWuSa9HCVmhfaE75QOHyrVrjxrXujNLwyqUpThRnbSiI4G1S5N5LfREacG8kZjok3+cKQw+Q3eC170s25UOEY05UCO1W5tJJNuwHdCY2ONr5e+oiX8fy/oCRDsY1rX23bUUzcnuxfW6DfB2/9xKw1zYnlLCbtr5aW11o0U0M0knkxjtj/G5/g/yhyZI9hQDd1kklUEFq7Zv0nU+XZCcnGS733F2vmQ9mgrY03elu+SIjxZ1ac4CP8scOm2t6ey2K5ZoQwqbd0NS89MaswgAjeqby28EBkVgvJZ3uCTCq3knjFjvHYFpv8TjqWDNNos4i2G8gDQDC5hBcmfD/pxXoTpXCvQa7/iwCuPCd3F63uVfVFkh3ns27vcVZc+d/TxoIj9AdFeX1KdlXEoEVvuVonl6uUg6hfusqvtAV/4PXP4fCga29PUSbAOd/unna62aAiJGfT6oAG5MY+C1MZHbuV/W2UHjr5Gx/xW8IHrmabaFdRFlloLFV0PfN8dkTuzjgLJaxXnRtPMOtPq+qdXLovxzraRsy/yFS4G5eAgfwDF69fZQGpkKdaftVX63rn0glK96Ajyxx4MN+YpqP2b9R8HPTUJcnW745drR9irXy8zy0=
