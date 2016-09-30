@@ -23,7 +23,11 @@ gulp.task('jslint', function(){
         .pipe(jslint.reporter('stylish'));
 });
 
-gulp.task('build', ['jslint'], function() {
+gulp.task('test', ['jslint'], function(){
+    
+});
+
+gulp.task('build', ['test'], function() {
 
 });
 
