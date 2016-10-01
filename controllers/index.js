@@ -26,4 +26,9 @@ router.get('/nutrition-demo-page-3', function (req, res, next) {
   res.render('Nutrition-Demo-Page-3', { title: 'Nutrition 3' });
 });
 
+/* GET Test Error */
+router.get('/sentry-error', function (req, res, next) {
+    throw new Error('Testing Sentry!');
+});
+
 module.exports = router;
