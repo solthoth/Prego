@@ -1,5 +1,5 @@
 # Custom - Bower Directory
-public/lib
+**/public/lib
 
 # Ignore .Env
 .env

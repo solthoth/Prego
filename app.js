@@ -10,7 +10,7 @@ var bodyParser = require('body-parser');
 require('dotenv').config();
 
 // Setup new routes here
-var routes = require('./routes/index');
+var routes = require('./controllers/index');
 
 var app = express();
 
