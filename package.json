@@ -20,7 +20,9 @@
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
-    "gulp-jslint": "^1.0.5"
+    "gulp-jslint": "^1.0.5",
+    "gulp-sass": "^2.3.2"
   }
 }
