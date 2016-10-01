@@ -1,5 +1,8 @@
 # Custom - Bower Directory
-public/lib
+**/public/lib
+
+# Ignore .Env
+.env
 
 # Created by https://www.gitignore.io/api/bower
 
